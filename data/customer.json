@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "name": "Prashant",
+            "age": "50",
+            "sex": "Male",
+            "organization": "TCS",
+            "department": "RnD",
+            "isActive": "true"
+        },
+        {
+            "name": "Shyam",
+            "age": "40",
+            "sex": "Male",
+            "organization": "TCS",
+            "department": "RnD",
+            "isActive": "true"
+        },
+        {
+            "name": "Ranjan",
+            "age": "50",
+            "sex": "Female",
+            "organization": "TCS",
+            "department": "RnD",
+            "isActive": "true"
+        },
+        {
+            "name": "Nishant",
+            "age": "45",
+            "sex": "Male",
+            "organization": "TCS",
+            "department": "RnD",
+            "isActive": "true"
+        }
+    ]
+}
